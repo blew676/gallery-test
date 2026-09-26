@@ -1,0 +1,136 @@
+# Deep Sky Test
+
+> Your Door to the Cosmos
+
+Professional Grade Astronomical Data at your Fingertips
+
+Every picture is shown with the record AstroTracker keeps of how it was made: integration per filter and per night, subs kept, the telescope and camera.
+
+## Pages
+
+- [Gallery](https://blew676.github.io/gallery-test/gallery/): 114 finished pictures, 4,005 hours of integration.
+- [Telescopes](https://blew676.github.io/gallery-test/telescopes/): the telescopes behind the pictures.
+- [About](https://blew676.github.io/gallery-test/about/): the person behind the pictures.
+
+## About
+
+Test site for DSD
+
+## Pictures
+
+The pictures are not offered for training AI models (see robots.txt).
+
+- [IC 63 V2](https://blew676.github.io/gallery-test/ic-63-v2/): IC 63 V2: 50h 41m of LRGB + Hα through the GT81, 13 nights.
+- [IC 1805](https://blew676.github.io/gallery-test/ic-1805/): IC 1805: 34h 00m of SHO through the ED127, 8 nights.
+- [Ghost Nebula](https://blew676.github.io/gallery-test/ghost-nebula/): Ghost Nebula: 41h 24m of LRGB through the Edge8, 8 nights.
+- [IC 63](https://blew676.github.io/gallery-test/ic-63/): IC 63: 25h 22m of LRGB + Hα through the Pleiades 68, 8 nights.
+- [The Butterfly Nebula](https://blew676.github.io/gallery-test/the-butterfly-nebula/): The Butterfly Nebula: 15h 10m of SHO through the GT81, 7 nights.
+- [Crescent Nebula](https://blew676.github.io/gallery-test/crescent-nebula/): Crescent Nebula: 45h 10m of HOO through the ED127, 9 nights.
+- [North America Nebula](https://blew676.github.io/gallery-test/north-america-nebula/): North America Nebula: 6h 30m of HOO through the Pleiades 68, 1 night.
+- [Veil Nebula](https://blew676.github.io/gallery-test/veil-nebula/): Veil Nebula: 31h 00m of HOO through the GT81, 10 nights.
+- [Hamburger Galaxy](https://blew676.github.io/gallery-test/hamburger-galaxy/): Hamburger Galaxy: 21h 42m of LRGB through the Edge8, 7 nights.
+- [M65](https://blew676.github.io/gallery-test/m65/): M65: 35h 49m of L + R + B + Hα through the Pleiades 68, 17 nights.
+- [NGC 5907](https://blew676.github.io/gallery-test/ngc-5907/): NGC 5907: 52h 51m of LRGB through the ED127, 5 nights.
+- [M106](https://blew676.github.io/gallery-test/m106/): M106: 149h 26m of LRGB + Hα through the ED127, 31 nights.
+- [Whirlpool Galaxy](https://blew676.github.io/gallery-test/whirlpool-galaxy/): Whirlpool Galaxy: 47h 03m of LRGB + Hα through the Edge8 + ED127, 8 nights.
+- [Sombrero Galaxy](https://blew676.github.io/gallery-test/sombrero-galaxy/): Sombrero Galaxy: 25h 03m of LRGB through the Edge8 + ED127, 4 nights.
+- [Bubble Galaxy](https://blew676.github.io/gallery-test/bubble-galaxy/): Bubble Galaxy: 24h 51m of LRGB + Hα through the Edge8, 8 nights.
+- [Coma Pinwheel](https://blew676.github.io/gallery-test/coma-pinwheel/): Coma Pinwheel: 31h 35m of LRGB through the ED127, 8 nights.
+- [Whale and Crowbar](https://blew676.github.io/gallery-test/whale-and-crowbar/): Whale and Crowbar: 57h 06m of LRGB + Hα through the ED127, 7 nights.
+- [Coddingtons Nebula (Galaxy)](https://blew676.github.io/gallery-test/coddingtons-nebula-galaxy/): Coddingtons Nebula (Galaxy): 53h 59m of LRGB + Hα through the Edge8, 10 nights.
+- [M81 Vulcan Nebula](https://blew676.github.io/gallery-test/m81-vulcan-nebula/): M81 Vulcan Nebula: 151h 00m of LRGB + Hα, OIII through the Pleiades 68, 24 nights.
+- [Bode's Galaxy](https://blew676.github.io/gallery-test/bodes-galaxy/): Bode's Galaxy: 99h 33m of LRGB + Hα through the ED127, 15 nights.
+- [M101](https://blew676.github.io/gallery-test/m101/): M101: 82h 28m of LRGB + Hα through the GT81, 16 nights.
+- [Tiger Eye Galaxy](https://blew676.github.io/gallery-test/tiger-eye-galaxy/): Tiger Eye Galaxy: 35h 42m of LRGB through the Edge8, 5 nights.
+- [IC 2169](https://blew676.github.io/gallery-test/ic-2169/): IC 2169: 60h 50m of LRGB + Hα through the ED127, 17 nights.
+- [vdB 14](https://blew676.github.io/gallery-test/vdb-14/): vdB 14: 81h 30m of LRGB + Hα through the GT81, 13 nights.
+- [NGC 1788](https://blew676.github.io/gallery-test/ngc-1788/): NGC 1788: 23h 05m of LRGB through the Edge8, 7 nights.
+- [Pleiades](https://blew676.github.io/gallery-test/pleiades/): Pleiades: 76h 46m of LRGB + Hα through the Pleiades 68, 17 nights.
+- [Great Orion Nebula](https://blew676.github.io/gallery-test/great-orion-nebula/): Great Orion Nebula: 39h 51m of LRGB + Hα, OIII through the GT81, 14 nights.
+- [Christmas Tree Cluster](https://blew676.github.io/gallery-test/christmas-tree-cluster/): Christmas Tree Cluster: 7h 30m of LRGB + Hα through the Pleiades 68, 3 nights.
+- [IC 5076](https://blew676.github.io/gallery-test/ic-5076/): IC 5076: 19h 04m of LRGB + Hα through the ED127, 6 nights.
+- [M15](https://blew676.github.io/gallery-test/m15/): M15: 55h 22m of Hα + No filter through the GT81, 15 nights.
+- [Spaghetti Nebula](https://blew676.github.io/gallery-test/spaghetti-nebula/): Spaghetti Nebula: 56h 40m of HOO through the Pleiades 68, 16 nights.
+- [M78](https://blew676.github.io/gallery-test/m78/): M78: 78h 41m of LRGB + Hα through the ED127, 19 nights.
+- [M35](https://blew676.github.io/gallery-test/m35/): M35: 21h 44m of LRGB + Hα through the Edge8, 6 nights.
+- [Flaming Star Nebula](https://blew676.github.io/gallery-test/flaming-star-nebula/): Flaming Star Nebula: 20h 54m of LRGB + Hα through the ED127, 10 nights.
+- [IC 2169](https://blew676.github.io/gallery-test/ic-2169-gt81/): IC 2169: 22h 40m of Hα through the GT81, 7 nights.
+- [Fish Head Nebula](https://blew676.github.io/gallery-test/fish-head-nebula/): Fish Head Nebula: 30h 10m of SHO through the Edge8, 6 nights.
+- [IC 1848](https://blew676.github.io/gallery-test/ic-1848/): IC 1848: 76h 44m of SHO through the ED127, 15 nights.
+- [LBN 438](https://blew676.github.io/gallery-test/lbn-438/): LBN 438: 76h 01m of RGB + Hα through the ED127, 15 nights.
+- [Pacman Nebula](https://blew676.github.io/gallery-test/pacman-nebula/): Pacman Nebula: 58h 21m of SHO through the Edge8, 10 nights.
+- [Wolf's Cave Nebula](https://blew676.github.io/gallery-test/wolfs-cave-nebula/): Wolf's Cave Nebula: 66h 30m of LRGB + Hα through the Pleiades 68, 19 nights.
+- [LDN 1221](https://blew676.github.io/gallery-test/ldn-1221/): LDN 1221: 60h 40m of LRGB + Hα through the ED127, 14 nights.
+- [Cocoon Nebula](https://blew676.github.io/gallery-test/cocoon-nebula/): Cocoon Nebula: 24h 38m of LRGB + Hα through the C11 Hyperstar, 7 nights.
+- [Small Sgr Star Cloud](https://blew676.github.io/gallery-test/small-sgr-star-cloud/): Small Sgr Star Cloud: 31h 16m of LRGB + Hα, OIII through the Pleiades 68, 10 nights.
+- [Eastern Veil](https://blew676.github.io/gallery-test/eastern-veil/): Eastern Veil: 16h 30m of HOO through the GT81, 3 nights.
+- [LDN 234](https://blew676.github.io/gallery-test/ldn-234/): LDN 234: 12h 00m of LRGB through the Pleiades 68, 5 nights.
+- [IC 4605](https://blew676.github.io/gallery-test/ic-4605/): IC 4605: 14h 26m of LRGB + Hα through the ED127, 9 nights.
+- [Iris Nebula](https://blew676.github.io/gallery-test/iris-nebula/): Iris Nebula: 17h 24m of LRGB through the C11 Hyperstar, 5 nights.
+- [Tulip Nebula](https://blew676.github.io/gallery-test/tulip-nebula/): Tulip Nebula: 39h 10m of SHO through the ED127, 11 nights.
+- [Eagle Nebula](https://blew676.github.io/gallery-test/eagle-nebula/): Eagle Nebula: 5h 10m of SHO through the GT81, 2 nights.
+- [Little Cocoon](https://blew676.github.io/gallery-test/little-cocoon/): Little Cocoon: 10h 00m of LRGB through the GT81, 2 nights.
+- [LDN 1100](https://blew676.github.io/gallery-test/ldn-1100/): LDN 1100: 9h 21m of LRGB through the GT81, 2 nights.
+- [NGC 4395](https://blew676.github.io/gallery-test/ngc-4395/): NGC 4395: 31h 31m of LRGB + Hα through the ED127, 12 nights.
+- [Trifid Nebula](https://blew676.github.io/gallery-test/trifid-nebula/): Trifid Nebula: 8h 24m of LRGB through the C11 Reduced, 5 nights.
+- [M95 and M96](https://blew676.github.io/gallery-test/m95-and-m96/): M95 and M96: 19h 24m of LRGB + Hα through the ED127, 8 nights.
+- [M88](https://blew676.github.io/gallery-test/m88/): M88: 15h 30m of LRGB through the C11 Reduced, 5 nights.
+- [Needle Galaxy](https://blew676.github.io/gallery-test/needle-galaxy/): Needle Galaxy: 6h 28m of LRGB through the C11 Reduced, 2 nights.
+- [Koi Fish Galaxy](https://blew676.github.io/gallery-test/koi-fish-galaxy/): Koi Fish Galaxy: 71h 17m of LRGB + Hα through the ED127, 12 nights.
+- [NGC 2170](https://blew676.github.io/gallery-test/ngc-2170/): NGC 2170: 33h 27m of L + Hα through the ED127, 17 nights.
+- [Flame Nebula](https://blew676.github.io/gallery-test/flame-nebula/): Flame Nebula: 41h 00m of LRGB + Hα through the ED127, 10 nights.
+- [Dolphin Head Nebula](https://blew676.github.io/gallery-test/dolphin-head-nebula/): Dolphin Head Nebula: 16h 40m of HOO through the ED127, 11 nights.
+- [LDN 1594](https://blew676.github.io/gallery-test/ldn-1594/): LDN 1594: 13h 03m of LRGB through the GT81, 3 nights.
+- [Boogieman](https://blew676.github.io/gallery-test/boogieman/): Boogieman: 60h 00m of LRGB + Hα through the Pleiades 68, 13 nights.
+- [Sh2-263](https://blew676.github.io/gallery-test/sh2-263/): Sh2-263: 80h 05m of LRGB + Hα through the ED127, 18 nights.
+- [Andromeda Galaxy](https://blew676.github.io/gallery-test/andromeda-galaxy/): Andromeda Galaxy: 75h 28m of LRGB + Hα through the Pleiades 68, 19 nights.
+- [Sailboat Cluster](https://blew676.github.io/gallery-test/sailboat-cluster/): Sailboat Cluster: 30h 39m of LRGB + Hα through the ED127, 8 nights.
+- [EmissionNear 2118](https://blew676.github.io/gallery-test/emissionnear-2118/): EmissionNear 2118: 32h 18m of LRGB + Hα through the GT81, 11 nights.
+- [Orions Head](https://blew676.github.io/gallery-test/orions-head/): Orions Head: 16h 33m of RGB + Hα through the Pleiades 68, 6 nights.
+- [Mars and The Beehive Cluster](https://blew676.github.io/gallery-test/mars-and-the-beehive-cluster/): Mars and The Beehive Cluster: 0h 47m of RGB through the Pleiades 68, 1 night.
+- [Sh2-119](https://blew676.github.io/gallery-test/sh2-119/): Sh2-119: 34h 48m of RGB + Hα, OIII, SII through the GT81, 8 nights.
+- [Flame Nebula](https://blew676.github.io/gallery-test/flame-nebula-pleiades-68/): Flame Nebula: 31h 24m of LRGB + Hα through the Pleiades 68, 12 nights.
+- [Dumbell](https://blew676.github.io/gallery-test/dumbell/): Dumbell: 15h 16m of RGB + Hα, OIII, SII through the ED127, 6 nights.
+- [LDN 1136](https://blew676.github.io/gallery-test/ldn-1136/): LDN 1136: 57h 13m of LRGB + Hα through the GT81, 9 nights.
+- [Veil Nebula](https://blew676.github.io/gallery-test/veil-nebula-ed127/): Veil Nebula: 23h 12m of HOO through the ED127, 6 nights.
+- [IC 1396](https://blew676.github.io/gallery-test/ic-1396/): IC 1396: 19h 45m of SHO through the Pleiades 68, 3 nights.
+- [Comet Atlas](https://blew676.github.io/gallery-test/comet-atlas/): Comet Atlas: 0h 30m of RGB through the Pleiades 68, 1 night.
+- [LDN 1165 Wide](https://blew676.github.io/gallery-test/ldn-1165-wide/): LDN 1165 Wide: 34h 19m of LRGB + Hα through the Pleiades 68, 6 nights.
+- [LDN 1165](https://blew676.github.io/gallery-test/ldn-1165/): LDN 1165: 45h 01m of LRGB + Hα through the ED127, 8 nights.
+- [LBN 437](https://blew676.github.io/gallery-test/lbn-437/): LBN 437: 21h 29m of RGB + Hα through the Pleiades 68, 4 nights.
+- [Pacman Wide](https://blew676.github.io/gallery-test/pacman-wide/): Pacman Wide: 86h 49m of RGB + Hα, OIII through the Pleiades 68, 20 nights.
+- [Andromeda Galaxy](https://blew676.github.io/gallery-test/andromeda-galaxy-ed127/): Andromeda Galaxy: 21h 52m of RGB + Hα through the ED127, 6 nights.
+- [Lagoon Nebula](https://blew676.github.io/gallery-test/lagoon-nebula/): Lagoon Nebula: 25h 49m of RGB + Hα, OIII through the Pleiades 68, 15 nights.
+- [Trifid Nebula](https://blew676.github.io/gallery-test/trifid-nebula-ed127/): Trifid Nebula: 27h 40m of RGB + Hα through the ED127, 13 nights.
+- [LBN 777](https://blew676.github.io/gallery-test/lbn-777/): LBN 777: 24h 12m of LRGB through the ED127, 4 nights.
+- [LDN 1147](https://blew676.github.io/gallery-test/ldn-1147/): LDN 1147: 13h 08m of RGB through the C11 Hyperstar, 3 nights.
+- [Propellar](https://blew676.github.io/gallery-test/propellar/): Propellar: 26h 10m of SHO through the ED127, 4 nights.
+- [Lagoon Nebula](https://blew676.github.io/gallery-test/lagoon-nebula-ed127/): Lagoon Nebula: 6h 24m of RGB + Hα through the ED127, 5 nights.
+- [North America Nebula](https://blew676.github.io/gallery-test/north-america-nebula-pleiades-68/): North America Nebula: 18h 41m of SHO through the Pleiades 68, 4 nights.
+- [WR 134](https://blew676.github.io/gallery-test/wr-134/): WR 134: 57h 31m of HOO through the ED127, 12 nights.
+- [M94](https://blew676.github.io/gallery-test/m94/): M94: 21h 39m of LRGB + Hα through the ED127, 11 nights.
+- [Eagle Nebula](https://blew676.github.io/gallery-test/eagle-nebula-ed127/): Eagle Nebula: 13h 55m of SHO through the ED127, 6 nights.
+- [NGC 3521](https://blew676.github.io/gallery-test/ngc-3521/): NGC 3521: 31h 06m of LRGB + Hα through the ED127, 12 nights.
+- [Markarians Chain](https://blew676.github.io/gallery-test/markarians-chain/): Markarians Chain: 39h 33m of LRGB through the GT81 (reduced), 10 nights.
+- [Mintaka Alnilam](https://blew676.github.io/gallery-test/mintaka-alnilam/): Mintaka Alnilam: 12h 53m of RGB + Hα through the GT81 (reduced), 3 nights.
+- [vdB 15](https://blew676.github.io/gallery-test/vdb-15/): vdB 15: 42h 19m of LRGB + Hα through the ED127, 11 nights.
+- [Christmas Tree Cluster](https://blew676.github.io/gallery-test/christmas-tree-cluster-ed127/): Christmas Tree Cluster: 28h 20m of RGB + Hα through the ED127, 5 nights.
+- [North America Nebula](https://blew676.github.io/gallery-test/north-america-nebula-ed127/): North America Nebula: 25h 00m of SHO through the ED127, 8 nights.
+- [Little Flame Nebula ic2087](https://blew676.github.io/gallery-test/little-flame-nebula-ic2087/): Little Flame Nebula ic2087: 16h 06m of RGB through the GT81 (reduced), 7 nights.
+- [Triangulum Galaxy](https://blew676.github.io/gallery-test/triangulum-galaxy/): Triangulum Galaxy: 65h 52m of RGB + Hα, OIII through the ED127, 10 nights.
+- [Bubble Nebula](https://blew676.github.io/gallery-test/bubble-nebula/): Bubble Nebula: 20h 30m of SHO through the ED127, 5 nights.
+- [Double Cluster](https://blew676.github.io/gallery-test/double-cluster/): Double Cluster: 18h 12m of RGB + Hα through the Redcat51, 4 nights.
+- [The Heart and Soul Nebulae (Mosaic)](https://blew676.github.io/gallery-test/the-heart-and-soul-nebulae-mosaic/): The Heart and Soul Nebulae (Mosaic): 25h 20m of SHO through the Redcat51, 4 nights.
+- [Crescent Nebula](https://blew676.github.io/gallery-test/crescent-nebula-ed127/): Crescent Nebula: 22h 05m of HOO through the ED127, 5 nights.
+- [Helix Nebula](https://blew676.github.io/gallery-test/helix-nebula/): Helix Nebula: 31h 35m of SHO through the ED127, 7 nights.
+- [NGC 7129](https://blew676.github.io/gallery-test/ngc-7129/): NGC 7129: 46h 46m of RGB + Hα through the ED127, 7 nights.
+- [IC 5146 - Cocoon](https://blew676.github.io/gallery-test/ic-5146-cocoon/): IC 5146 - Cocoon: 43h 05m of RGB + Hα through the ED127, 9 nights.
+- [The Iris Nebula](https://blew676.github.io/gallery-test/the-iris-nebula/): The Iris Nebula: 7h 50m of RGB through the GT81 (reduced), 2 nights.
+- [vdB 132](https://blew676.github.io/gallery-test/vdb-132/): vdB 132: 10h 27m of RGB + Hα through the ED127, 2 nights.
+- [Wolf's Cave Nebula](https://blew676.github.io/gallery-test/wolfs-cave-nebula-gt81-reduced/): Wolf's Cave Nebula: 22h 25m of LRGB + Hα through the GT81 (reduced), 5 nights.
+- [Seahorse Nebula](https://blew676.github.io/gallery-test/seahorse-nebula/): Seahorse Nebula: 13h 09m of RGB through the ED127, 3 nights.
+- [IC 63](https://blew676.github.io/gallery-test/ic-63-ed127/): IC 63: 8h 07m of RGB + Hα through the ED127, 3 nights.
+- [NGC 7380](https://blew676.github.io/gallery-test/ngc-7380/): NGC 7380: 39h 10m of SHO through the ED127, 12 nights.
+- [Christmas Tree Cluster](https://blew676.github.io/gallery-test/christmas-tree-cluster-redcat51/): Christmas Tree Cluster: 13h 50m of RGB + Hα through the Redcat51, 3 nights.
+- [NGC 2244](https://blew676.github.io/gallery-test/ngc-2244/): NGC 2244: 5h 00m of SHO through the ED127, 1 night.
+- [Witch Head](https://blew676.github.io/gallery-test/witch-head/): Witch Head: 6h 40m of LRGB through the Redcat51, 1 night.
